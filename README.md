@@ -1,5 +1,5 @@
 # 💫 About Me:
-I used to be a non-commissioned officer in the Chilean army, but I decided to turn my life towards programming and computer science, something that always caught my attention.<br><br>🌱 I’m currently learning Python and React<br>⚡ Fun fact Warcraft lover
+I used to be a non-commissioned officer in the Chilean army, but I decided to turn my life towards programming and computer science, something that always caught my attention.<br><br>🌱 I’m currently learning Python and React<br>⚡ Warcraft lover
 
 
 ## 🌐 Socials:
