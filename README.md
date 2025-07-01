@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Solía ser Suboficial en el Ejército de Chile, pero decidí darle una vuelta a mi vida hacia la programación e informática, algo que siempre llamó mucho mi atención. <br><br>🌱 Actualmente sigo aprendiendo sobre Python, React and NodeJS<br>⚡ Warcraft lover
+Solía ser Suboficial en el Ejército de Chile, pero decidí darle una vuelta a mi vida hacia la programación e informática, algo que siempre llamó mucho mi atención. <br><br>🌱 Actualmente realizando un bootcamp en Arquitectura Cloud por Talento Digital Chile y sigo aprendiendo sobre Python, React and NodeJS<br>⚡ Warcraft lover
 
 
 ## 🌐 Mis redes:
