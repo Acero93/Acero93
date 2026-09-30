@@ -1,5 +1,5 @@
 # 💫 Sobre mi:
-Solía ser Suboficial en el Ejército de Chile, pero decidí darle una vuelta a mi vida hacia la programación e informática, algo que siempre llamó mucho mi atención. <br><br>🌱 sigo aprendiendo sobre Python, React and NodeJS<br>⚡ Warcraft lover
+Solía ser Suboficial en el Ejército de Chile, pero decidí darle una vuelta a mi vida hacia la programación e informática, algo que siempre llamó mucho mi atención. <br><br>🌱 sigo aprendiendo , sigo enseñando <br>⚡ Warcraft lover
 
 
 ## 🌐 Mis redes:
